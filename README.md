@@ -1,10 +1,10 @@
 <div align="center">
   
 # 👋 Hello! I'm Diogo Azevedo Batagini
-## 💻 Computer Science Graduate | Full Stack Development | Databases & Machine Learning
+## Computer Science Graduate | Full Stack Development | Databases & Machine Learning
 
 <p align="center"> 
-  <a href="www.linkedin.com/in/diogo-batagini"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+  <a href="https://www.linkedin.com/in/diogo-batagini"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
   <a href="mailto:dabatagini@sga.pucminas.br"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 </div>
 
